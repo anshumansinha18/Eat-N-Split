@@ -4,14 +4,14 @@
 Welcome to Eat-n-Split, a handy React application that simplifies splitting bills with your friends, making your outings stress-free!
 
 ## Screenshot
-
+**Image 1: Landing Page**:
 ![image](https://github.com/anshumansinha18/Eat-N-Split/assets/39727166/3ac3ec6a-a22b-4df3-9e7d-a8c03666b8e1)
-**Image 1: Landing Page**
-![image](https://github.com/anshumansinha18/Eat-N-Split/assets/39727166/752e0c3a-0a89-4470-8119-2a21d3e1eed2)
-**Image 2: Splitting Bill**
-![image](https://github.com/anshumansinha18/Eat-N-Split/assets/39727166/b21eef36-ac93-4f42-8e57-df6dc4630503)
-**Image 3: Add Friend**
 
+**Image 2: Splitting Bill**:
+![image](https://github.com/anshumansinha18/Eat-N-Split/assets/39727166/752e0c3a-0a89-4470-8119-2a21d3e1eed2)
+
+**Image 3: Add Friend**:
+![image](https://github.com/anshumansinha18/Eat-N-Split/assets/39727166/b21eef36-ac93-4f42-8e57-df6dc4630503)
 
 
 ## Featuers
