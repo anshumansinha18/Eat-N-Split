@@ -1,70 +1,55 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Eat-n-Split - Bill Splitting React Application
 
-## Available Scripts
+Welcome to Eat-n-Split, a handy React application that simplifies splitting bills with your friends, making your outings stress-free!
 
-In the project directory, you can run:
+## Screenshot
 
-### `npm start`
+![image](https://github.com/anshumansinha18/Eat-N-Split/assets/39727166/3ac3ec6a-a22b-4df3-9e7d-a8c03666b8e1)
+**Image 1: Landing Page**
+![image](https://github.com/anshumansinha18/Eat-N-Split/assets/39727166/752e0c3a-0a89-4470-8119-2a21d3e1eed2)
+**Image 2: Splitting Bill**
+![image](https://github.com/anshumansinha18/Eat-N-Split/assets/39727166/b21eef36-ac93-4f42-8e57-df6dc4630503)
+**Image 3: Add Friend**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Featuers
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Split Bills Effortlessly:** No more hassle when it comes to splitting the bill. Eat-n-Split makes it easy and quick to divide expenses among friends.
 
-### `npm run build`
+- **Built with React:** This application is developed using React, ensuring a seamless and interactive user interface.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Utilizes React State and Hooks:** With the power of React state and hooks, Eat-n-Split efficiently manages and updates data in real-time.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Responsive CSS and Grids:** The user interface is crafted with responsive CSS and grids, providing a visually appealing experience across various devices.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Add Multiple Friends:** Whether it's a small gathering or a large party, you can add as many friends as you need to split the bill accurately.
 
-### `npm run eject`
+- **Random Profile Pictures:** Eat-n-Split uses an external API to generate random profile pictures for your friends, adding a touch of fun to the app.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Clear Debts Overview:** Always stay informed about how much you owe your friends and how much they owe you, ensuring everyone settles their dues without confusion.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+##  How to Use
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Add Friends:** Start by adding your friends to the application. Click on the "Add Friend" button, and a random profile picture will be assigned automatically.
 
-## Learn More
+- **Enter Expenses:** Input the expenses incurred during your outing. You can add individual expenses for each friend or split the bill equally among all.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Check Debt Summary:** The application will automatically calculate how much each person owes or is owed. Easily view the debt summary for a clear understanding.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **Settle Payments:** Based on the debt summary, handle the payments accordingly, ensuring everyone settles up correctly.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Installation
 
-### Analyzing the Bundle Size
+1. Clone this repository to your local machine.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+2. Navigate to the project directory and run `npm install` to install all the required dependencies.
 
-### Making a Progressive Web App
+3. Launch the application with `npm start`, and it will open in your default web browser.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Styling
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+To customize the styling of the component, you can define CSS classes and use them with the className prop. Here is an example of how you can define styles in your styles.css file:
